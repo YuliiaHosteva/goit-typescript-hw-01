@@ -1,7 +1,6 @@
 {
   "name": "typescript-test",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
@@ -132,5 +131,6 @@
     "wordwrapjs": "^5.1.0",
     "ws": "^7.5.9",
     "ylru": "^1.4.0"
-  }
+  },
+  "description": ""
 }
